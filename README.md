@@ -17,4 +17,4 @@ A small browser todo app built with HTML, CSS, and vanilla JavaScript.
 
 ## Run
 
-Open `index.html` in a browser.
+Open https://arhitecsh.github.io/oop-todo-app/
